@@ -32,7 +32,7 @@ import java.util.stream.Collectors;
 /**
  * 机器表 数据验证器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/5/27 13:49
  */

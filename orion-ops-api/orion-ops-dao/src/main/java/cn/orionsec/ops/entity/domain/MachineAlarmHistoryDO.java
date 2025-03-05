@@ -34,7 +34,7 @@ import java.util.Date;
  * 机器报警历史
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-26
  */
 @Data

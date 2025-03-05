@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 重置密码请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/21 23:13
  */

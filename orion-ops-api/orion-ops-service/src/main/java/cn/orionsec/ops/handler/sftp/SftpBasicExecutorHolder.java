@@ -42,7 +42,7 @@ import java.util.stream.Collectors;
 /**
  * sftp基本操作执行holder
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/11/9 22:30
  */

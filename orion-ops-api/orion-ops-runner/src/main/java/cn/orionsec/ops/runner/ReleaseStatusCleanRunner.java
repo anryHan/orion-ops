@@ -42,7 +42,7 @@ import java.util.List;
 /**
  * 重置应用发布状态
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/29 17:49
  */

@@ -41,7 +41,7 @@ import java.util.Map;
 /**
  * 执行操作-传输产物 sftp方式
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @see ActionType#RELEASE_TRANSFER
  * @see TransferMode#SFTP

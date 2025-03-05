@@ -27,7 +27,7 @@ import java.lang.annotation.*;
 /**
  * 用户事件注解
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/1/22 17:50
  */

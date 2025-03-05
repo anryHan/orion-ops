@@ -28,7 +28,7 @@ import lombok.Data;
 /**
  * terminal 录屏环境
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/7/26 18:27
  */

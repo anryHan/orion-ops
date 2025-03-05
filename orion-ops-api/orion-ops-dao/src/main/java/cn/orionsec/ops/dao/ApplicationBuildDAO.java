@@ -33,7 +33,7 @@ import java.util.List;
  * 应用构建 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-11-26
  */
 public interface ApplicationBuildDAO extends BaseMapper<ApplicationBuildDO> {

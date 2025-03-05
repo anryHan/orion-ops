@@ -29,7 +29,7 @@ import java.util.Date;
 /**
  * 机器报警请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/29 16:59
  */

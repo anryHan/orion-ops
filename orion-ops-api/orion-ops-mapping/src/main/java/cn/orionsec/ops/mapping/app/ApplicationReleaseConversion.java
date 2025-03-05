@@ -35,7 +35,7 @@ import java.util.Optional;
 /**
  * 应用发布 对象转换器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/10 17:53
  */

@@ -34,7 +34,7 @@ import java.util.Date;
  * webhook 配置
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-23
  */
 @Data

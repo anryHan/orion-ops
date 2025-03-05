@@ -73,7 +73,7 @@ import java.util.stream.Collectors;
  * 发布任务 服务实现类
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-12-20
  */
 @Service("applicationReleaseService")

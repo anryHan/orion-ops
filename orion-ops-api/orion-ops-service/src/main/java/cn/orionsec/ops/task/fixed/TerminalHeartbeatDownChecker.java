@@ -30,7 +30,7 @@ import javax.annotation.Resource;
 /**
  * 终端 心跳检查服务
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/19 23:17
  */

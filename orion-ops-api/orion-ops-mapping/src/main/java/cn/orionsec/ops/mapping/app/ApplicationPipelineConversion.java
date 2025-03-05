@@ -30,7 +30,7 @@ import cn.orionsec.ops.entity.vo.app.ApplicationPipelineVO;
 /**
  * 应用流水线 对象转换器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/10 17:43
  */

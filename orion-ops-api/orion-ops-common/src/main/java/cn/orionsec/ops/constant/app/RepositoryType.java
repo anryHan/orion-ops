@@ -26,7 +26,7 @@ import lombok.Getter;
 /**
  * 应用版本仓库工具类型
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/6 10:48
  */

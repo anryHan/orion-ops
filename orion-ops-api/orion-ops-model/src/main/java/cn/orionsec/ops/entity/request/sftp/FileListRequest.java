@@ -28,7 +28,7 @@ import lombok.EqualsAndHashCode;
 /**
  * sftp 文件列表请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/23 19:25
  */

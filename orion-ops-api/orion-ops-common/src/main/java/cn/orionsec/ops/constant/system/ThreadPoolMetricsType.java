@@ -29,7 +29,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 线程池指标类型
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/3/24 17:19
  */

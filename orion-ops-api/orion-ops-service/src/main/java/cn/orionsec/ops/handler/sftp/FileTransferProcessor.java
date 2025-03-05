@@ -39,7 +39,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * sftp 传输文件基类
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/26 14:58
  */

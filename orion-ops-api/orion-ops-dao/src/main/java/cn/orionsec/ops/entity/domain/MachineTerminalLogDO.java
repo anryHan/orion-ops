@@ -35,7 +35,7 @@ import java.util.Date;
 /**
  * 机器终端操作日志
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-04-19
  */
 @Data

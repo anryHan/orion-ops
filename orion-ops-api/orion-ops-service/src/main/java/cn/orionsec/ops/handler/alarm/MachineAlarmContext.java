@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * 机器报警参数
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/29 18:43
  */

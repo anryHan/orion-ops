@@ -25,7 +25,7 @@ import lombok.Getter;
 /**
  * 产物传输方式 (sftp/scp)
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/4/26 22:16
  */

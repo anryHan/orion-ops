@@ -29,7 +29,7 @@ import java.util.Date;
 /**
  * 终端终端配置响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/11/2 21:02
  */

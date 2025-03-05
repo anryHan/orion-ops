@@ -38,7 +38,7 @@ import java.util.List;
 /**
  * 站内信 api
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/3/25 11:27
  */

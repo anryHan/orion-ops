@@ -38,7 +38,7 @@ import java.util.Objects;
 /**
  * 机器终端日志 数据导出器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/9/8 18:33
  */

@@ -25,7 +25,7 @@ import cn.orionsec.kit.http.support.HttpMethod;
 /**
  * http api 定义接口
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/1 10:56
  */

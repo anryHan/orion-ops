@@ -32,7 +32,7 @@ import java.util.Collection;
 /**
  * 并行处理器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/12/29 15:32
  */

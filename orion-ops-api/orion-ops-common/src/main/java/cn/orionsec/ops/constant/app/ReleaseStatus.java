@@ -26,7 +26,7 @@ import lombok.Getter;
 /**
  * app发布状态
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/11 21:23
  */

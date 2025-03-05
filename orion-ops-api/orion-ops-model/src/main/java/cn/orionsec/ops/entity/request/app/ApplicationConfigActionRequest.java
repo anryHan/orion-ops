@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 应用发布操作配置请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/7 19:00
  */

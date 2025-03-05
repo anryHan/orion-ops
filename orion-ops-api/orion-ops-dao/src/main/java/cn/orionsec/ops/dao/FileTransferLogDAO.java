@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * sftp传输日志表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-06-26
  */
 public interface FileTransferLogDAO extends BaseMapper<FileTransferLogDO> {

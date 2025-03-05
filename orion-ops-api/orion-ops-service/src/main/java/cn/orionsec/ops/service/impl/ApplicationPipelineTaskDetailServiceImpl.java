@@ -45,7 +45,7 @@ import java.util.stream.Collectors;
 /**
  * 应用流水线任务详情服务
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/4/7 8:56
  */

@@ -32,7 +32,7 @@ import java.util.Date;
 /**
  * 机器监控配置表
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-01
  */
 @Data

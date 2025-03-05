@@ -32,7 +32,7 @@ import java.util.Date;
 /**
  * sftp传输日志表
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-06-26
  */
 @Data

@@ -37,7 +37,7 @@ import java.io.IOException;
 /**
  * 暴露api请求头拦截器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/29 16:09
  */

@@ -32,7 +32,7 @@ import java.util.Date;
 /**
  * 系统站内信
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-03-25
  */
 @Data

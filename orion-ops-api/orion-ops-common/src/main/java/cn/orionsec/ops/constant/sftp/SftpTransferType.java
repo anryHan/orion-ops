@@ -26,7 +26,7 @@ import lombok.Getter;
 /**
  * sftp 操作
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/26 12:08
  */

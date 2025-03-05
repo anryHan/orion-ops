@@ -29,7 +29,7 @@ import cn.orionsec.ops.entity.vo.scheduler.SchedulerTaskVO;
  * 调度任务 服务类
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-02-22
  */
 public interface SchedulerTaskService {

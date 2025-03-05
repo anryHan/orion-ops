@@ -27,7 +27,7 @@ import cn.orionsec.ops.utils.Valid;
 /**
  * 文件tail 数据验证器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/5/31 16:39
  */

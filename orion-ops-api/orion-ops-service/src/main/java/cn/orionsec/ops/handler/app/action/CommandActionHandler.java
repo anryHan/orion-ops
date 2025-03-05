@@ -34,7 +34,7 @@ import lombok.Getter;
 /**
  * 执行操作-机器命令
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @see ActionType#BUILD_COMMAND
  * @see ActionType#RELEASE_COMMAND

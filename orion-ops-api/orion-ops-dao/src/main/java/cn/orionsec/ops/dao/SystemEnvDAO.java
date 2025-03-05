@@ -29,7 +29,7 @@ import org.apache.ibatis.annotations.Param;
  * 系统环境变量 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-02-15
  */
 public interface SystemEnvDAO extends BaseMapper<SystemEnvDO> {

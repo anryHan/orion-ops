@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * 应用构建请求
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-12-03
  */
 @Data

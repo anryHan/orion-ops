@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 系统站内信 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-03-25
  */
 public interface WebSideMessageDAO extends BaseMapper<WebSideMessageDO> {

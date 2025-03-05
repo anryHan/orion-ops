@@ -29,7 +29,7 @@ import java.util.Date;
 /**
  * 分支提交信息响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/12 17:57
  */

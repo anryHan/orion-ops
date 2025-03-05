@@ -29,7 +29,7 @@ import org.apache.ibatis.annotations.Param;
  * 机器分组 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-09-23
  */
 public interface MachineGroupDAO extends BaseMapper<MachineGroupDO> {

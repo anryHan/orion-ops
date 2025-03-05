@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * sftp 会话信息
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/5/16 9:41
  */

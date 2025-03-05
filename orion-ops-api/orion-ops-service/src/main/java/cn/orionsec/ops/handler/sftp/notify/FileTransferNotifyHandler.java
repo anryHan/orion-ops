@@ -41,7 +41,7 @@ import java.util.Map;
 /**
  * sftp 传输通知处理器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/27 11:25
  */

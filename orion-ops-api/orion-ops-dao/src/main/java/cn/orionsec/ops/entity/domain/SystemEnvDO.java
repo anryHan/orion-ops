@@ -32,7 +32,7 @@ import java.util.Date;
 /**
  * 系统环境变量
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-02-15
  */
 @Data

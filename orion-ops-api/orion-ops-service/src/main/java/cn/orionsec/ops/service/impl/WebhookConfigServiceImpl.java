@@ -44,7 +44,7 @@ import java.util.Objects;
 /**
  * webhook 配置服务
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/23 17:55
  */

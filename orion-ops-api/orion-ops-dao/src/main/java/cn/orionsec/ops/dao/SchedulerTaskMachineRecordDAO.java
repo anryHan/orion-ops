@@ -31,7 +31,7 @@ import java.util.List;
  * 调度任务执行明细机器详情 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-02-22
  */
 public interface SchedulerTaskMachineRecordDAO extends BaseMapper<SchedulerTaskMachineRecordDO> {

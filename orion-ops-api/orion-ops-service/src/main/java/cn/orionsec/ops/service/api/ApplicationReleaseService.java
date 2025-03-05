@@ -33,7 +33,7 @@ import java.util.List;
  * 发布任务 服务类
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-12-20
  */
 public interface ApplicationReleaseService {

@@ -27,7 +27,7 @@ import java.lang.annotation.*;
 /**
  * 需要权限注解
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/20 10:18
  */

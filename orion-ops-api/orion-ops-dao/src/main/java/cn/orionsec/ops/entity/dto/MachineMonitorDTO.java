@@ -30,7 +30,7 @@ import java.io.Serializable;
 /**
  * 机器监控配置
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-01
  */
 @Data

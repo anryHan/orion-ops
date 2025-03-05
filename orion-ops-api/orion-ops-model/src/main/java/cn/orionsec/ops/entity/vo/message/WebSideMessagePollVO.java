@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * 站内信消息轮询响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/3/28 16:15
  */

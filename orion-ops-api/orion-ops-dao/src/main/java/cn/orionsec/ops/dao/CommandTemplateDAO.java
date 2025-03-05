@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 命令模板表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-06-04
  */
 public interface CommandTemplateDAO extends BaseMapper<CommandTemplateDO> {

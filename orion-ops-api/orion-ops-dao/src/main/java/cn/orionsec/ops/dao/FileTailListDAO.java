@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 文件tail表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-07-31
  */
 public interface FileTailListDAO extends BaseMapper<FileTailListDO> {

@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 历史值快照表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-06-09
  */
 public interface HistoryValueSnapshotDAO extends BaseMapper<HistoryValueSnapshotDO> {

@@ -43,7 +43,7 @@ import org.springframework.web.socket.WebSocketSession;
 /**
  * tracker 方式
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/18 17:36
  */

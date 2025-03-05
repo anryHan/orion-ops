@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 机器终端操作日志 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-04-19
  */
 public interface MachineTerminalLogDAO extends BaseMapper<MachineTerminalLogDO> {

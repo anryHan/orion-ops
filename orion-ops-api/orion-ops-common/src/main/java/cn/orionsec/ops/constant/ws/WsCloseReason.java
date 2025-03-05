@@ -23,7 +23,7 @@ package cn.orionsec.ops.constant.ws;
 /**
  * ws服务端关闭reason
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/16 15:21
  */

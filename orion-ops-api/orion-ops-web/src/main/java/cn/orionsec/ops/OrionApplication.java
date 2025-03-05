@@ -26,7 +26,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportResource;
 
 /**
- * @author Jiahang Li
+ * @author 
  */
 @SpringBootApplication
 @ImportResource(locations = {"classpath:config/spring-*.xml"})

@@ -41,7 +41,7 @@ import java.io.File;
 /**
  * 执行操作-检出
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @see ActionType#BUILD_CHECKOUT
  * @since 2022/2/11 15:57

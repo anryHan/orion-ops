@@ -42,7 +42,7 @@ import java.util.stream.Collectors;
 /**
  * 机器报警 webhook 推送
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/29 18:41
  */

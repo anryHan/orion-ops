@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 机器报警历史 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-26
  */
 public interface MachineAlarmHistoryDAO extends BaseMapper<MachineAlarmHistoryDO> {

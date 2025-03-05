@@ -29,7 +29,7 @@ import org.apache.ibatis.annotations.Param;
  * 用户表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-04-20
  */
 public interface UserInfoDAO extends BaseMapper<UserInfoDO> {

@@ -28,7 +28,7 @@ import lombok.NoArgsConstructor;
 /**
  * 机器监控插件 api 请求器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/1 11:03
  */

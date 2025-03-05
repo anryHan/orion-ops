@@ -29,7 +29,7 @@ import cn.orionsec.ops.entity.vo.app.ApplicationProfileVO;
 /**
  * 应用环境 对象转换器
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-07-02
  */
 public class ApplicationProfileConversion {

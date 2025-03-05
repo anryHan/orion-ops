@@ -30,7 +30,7 @@ import cn.orionsec.ops.entity.vo.upload.BatchUploadCheckMachineVO;
 /**
  * 文件批量上传 对象转换器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/5/13 17:04
  */

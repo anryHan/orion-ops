@@ -27,7 +27,7 @@ import cn.orionsec.ops.entity.vo.machine.MachineGroupTreeVO;
 /**
  * 机器分组 对象转换器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/9/23 17:39
  */

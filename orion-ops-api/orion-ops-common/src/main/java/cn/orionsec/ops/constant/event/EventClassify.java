@@ -26,7 +26,7 @@ import lombok.Getter;
 /**
  * 事件分类
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/1/23 17:40
  */

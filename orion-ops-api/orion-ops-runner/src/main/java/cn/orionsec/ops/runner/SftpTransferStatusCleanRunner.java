@@ -36,7 +36,7 @@ import java.util.Date;
 /**
  * 重置传输状态
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/29 18:38
  */

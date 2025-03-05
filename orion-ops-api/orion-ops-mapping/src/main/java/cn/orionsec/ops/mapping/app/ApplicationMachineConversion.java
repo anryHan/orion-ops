@@ -27,7 +27,7 @@ import cn.orionsec.ops.entity.vo.app.ApplicationMachineVO;
 /**
  * 应用机器 对象转换器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/10 17:41
  */

@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 应用依赖机器表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-07-02
  */
 public interface ApplicationMachineDAO extends BaseMapper<ApplicationMachineDO> {

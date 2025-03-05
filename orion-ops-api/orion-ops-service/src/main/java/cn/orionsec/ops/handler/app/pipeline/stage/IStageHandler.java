@@ -30,7 +30,7 @@ import cn.orionsec.ops.entity.domain.ApplicationPipelineTaskDetailDO;
 /**
  * 流水线阶段处理器接口
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/4/15 14:56
  */

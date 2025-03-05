@@ -46,7 +46,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 用户活跃拦截器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/1/22 14:58
  */

@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * 机器报警配置请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/26 18:24
  */

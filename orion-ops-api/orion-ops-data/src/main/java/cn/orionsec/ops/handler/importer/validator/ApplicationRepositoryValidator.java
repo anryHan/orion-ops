@@ -34,7 +34,7 @@ import java.util.stream.Collectors;
 /**
  * 应用版本仓库表 数据验证器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/6/2 10:02
  */

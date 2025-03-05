@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 报警组成员 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-25
  */
 public interface AlarmGroupUserDAO extends BaseMapper<AlarmGroupUserDO> {

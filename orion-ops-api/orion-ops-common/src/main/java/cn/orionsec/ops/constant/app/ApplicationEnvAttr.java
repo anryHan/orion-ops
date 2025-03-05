@@ -29,7 +29,7 @@ import java.util.Arrays;
 /**
  * 应用env常量
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/4 11:29
  */

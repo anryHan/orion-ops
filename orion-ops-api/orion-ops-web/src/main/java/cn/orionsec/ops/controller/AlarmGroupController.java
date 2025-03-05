@@ -40,7 +40,7 @@ import javax.annotation.Resource;
 /**
  * 报警组配置
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/26 11:15
  */

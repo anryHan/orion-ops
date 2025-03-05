@@ -26,7 +26,7 @@ import lombok.Getter;
 /**
  * 流水香详情状态
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/4/8 9:52
  */

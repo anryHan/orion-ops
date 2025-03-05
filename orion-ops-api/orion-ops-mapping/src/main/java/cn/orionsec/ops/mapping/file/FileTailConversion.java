@@ -30,7 +30,7 @@ import cn.orionsec.ops.entity.vo.tail.FileTailVO;
 /**
  * 文件 tail 对象转换器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/10 18:53
  */

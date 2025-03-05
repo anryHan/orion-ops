@@ -38,7 +38,7 @@ import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
 import java.io.File;
 
 /**
- * @author Jiahang Li
+ * @author 
  */
 public class CodeGenerator {
 

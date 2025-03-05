@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 机器分组关联表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-09-23
  */
 public interface MachineGroupRelDAO extends BaseMapper<MachineGroupRelDO> {

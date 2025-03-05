@@ -33,7 +33,7 @@ import java.util.List;
  * 机器监控配置表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-01
  */
 public interface MachineMonitorDAO extends BaseMapper<MachineMonitorDO> {

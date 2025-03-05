@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * 机器信息请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/14 22:06
  */

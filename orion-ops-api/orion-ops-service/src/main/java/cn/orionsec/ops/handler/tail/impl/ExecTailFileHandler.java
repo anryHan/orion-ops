@@ -44,7 +44,7 @@ import java.io.InputStream;
 /**
  * tail -f 命令
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/20 18:44
  */

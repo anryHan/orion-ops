@@ -32,7 +32,7 @@ import java.util.List;
  * 应用执行块 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-07-07
  */
 public interface ApplicationActionDAO extends BaseMapper<ApplicationActionDO> {

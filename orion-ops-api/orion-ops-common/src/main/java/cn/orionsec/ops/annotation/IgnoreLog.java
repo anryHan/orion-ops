@@ -25,7 +25,7 @@ import java.lang.annotation.*;
 /**
  * 不执行统一日志打印
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @see cn.orionsec.ops.interceptor.LogPrintInterceptor
  * @since 2022/4/20 10:33

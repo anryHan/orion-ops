@@ -29,7 +29,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;
 /**
  * 调度器配置
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/2/14 9:51
  */

@@ -28,7 +28,7 @@ import cn.orionsec.ops.entity.vo.user.UserLoginVO;
 /**
  * 认证服务类
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/1 16:58
  */

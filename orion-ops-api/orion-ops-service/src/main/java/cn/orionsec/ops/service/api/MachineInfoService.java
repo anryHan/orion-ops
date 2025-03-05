@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * 机器管理service
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-03-29
  */
 public interface MachineInfoService {

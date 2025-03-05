@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 用户事件日志 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-04-20
  */
 public interface UserEventLogDAO extends BaseMapper<UserEventLogDO> {

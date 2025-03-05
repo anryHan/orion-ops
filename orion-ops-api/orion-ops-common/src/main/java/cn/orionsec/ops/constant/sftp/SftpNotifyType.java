@@ -26,7 +26,7 @@ import lombok.Getter;
 /**
  * sftp通知类型
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/27 0:57
  */

@@ -29,7 +29,7 @@ import com.alibaba.fastjson.TypeReference;
 /**
  * http api 请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/1 10:57
  */

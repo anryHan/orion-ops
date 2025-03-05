@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * 应用操作流水线配置响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/4/8 10:00
  */

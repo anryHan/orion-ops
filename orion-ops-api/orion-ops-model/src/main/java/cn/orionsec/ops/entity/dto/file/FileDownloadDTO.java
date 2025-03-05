@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 文件下载缓存对象
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/8 17:54
  */

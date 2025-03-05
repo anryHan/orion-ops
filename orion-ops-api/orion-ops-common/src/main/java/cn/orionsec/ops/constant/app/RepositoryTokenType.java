@@ -27,7 +27,7 @@ import lombok.Getter;
 /**
  * 仓库令牌类型
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/2/19 22:38
  */

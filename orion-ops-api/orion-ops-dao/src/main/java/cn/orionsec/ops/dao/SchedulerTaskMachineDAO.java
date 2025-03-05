@@ -28,7 +28,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 调度任务机器 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-02-22
  */
 public interface SchedulerTaskMachineDAO extends BaseMapper<SchedulerTaskMachineDO> {

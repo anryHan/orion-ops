@@ -29,7 +29,7 @@ import lombok.NoArgsConstructor;
 /**
  * 系统版本响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/6/9 13:53
  */

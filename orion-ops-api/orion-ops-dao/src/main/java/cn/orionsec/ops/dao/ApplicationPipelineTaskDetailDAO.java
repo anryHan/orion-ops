@@ -31,7 +31,7 @@ import java.util.List;
  * 应用流水线任务详情 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-04-07
  */
 public interface ApplicationPipelineTaskDetailDAO extends BaseMapper<ApplicationPipelineTaskDetailDO> {

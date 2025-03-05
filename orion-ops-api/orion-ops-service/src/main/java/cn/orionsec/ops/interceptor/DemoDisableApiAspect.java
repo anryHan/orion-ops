@@ -33,7 +33,7 @@ import org.springframework.core.annotation.Order;
 /**
  * 演示模式禁用 api 切面
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2024/5/21 16:52
  */

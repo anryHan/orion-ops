@@ -35,7 +35,7 @@ import java.util.Date;
 /**
  * 历史值快照表
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-06-09
  */
 @Data

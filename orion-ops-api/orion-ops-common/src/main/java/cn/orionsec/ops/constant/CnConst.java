@@ -23,7 +23,7 @@ package cn.orionsec.ops.constant;
 /**
  * 中文常量
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/5/29 16:25
  */

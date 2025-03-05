@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 终端连接参数
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/17 20:12
  */

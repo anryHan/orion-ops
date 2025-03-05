@@ -53,7 +53,7 @@ import java.util.List;
 /**
  * 应用发布 api
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/11 22:15
  */

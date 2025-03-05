@@ -25,7 +25,7 @@ import cn.orionsec.ops.entity.request.machine.MachineAlarmRequest;
 /**
  * 机器报警服务
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/26 17:52
  */

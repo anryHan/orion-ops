@@ -43,7 +43,7 @@ import java.util.Map;
 /**
  * 文件传输管理器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/26 14:56
  */

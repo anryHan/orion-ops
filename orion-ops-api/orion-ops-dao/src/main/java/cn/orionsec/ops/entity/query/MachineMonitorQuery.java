@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 机器监控查询参数
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/2 10:22
  */

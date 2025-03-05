@@ -32,7 +32,7 @@ import java.util.Map;
 /**
  * 站内信服务
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/3/25 11:26
  */

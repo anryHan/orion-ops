@@ -28,7 +28,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 流水线会话
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/4/15 20:00
  */

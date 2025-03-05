@@ -30,7 +30,7 @@ import java.util.stream.Collectors;
 /**
  * webhook 表数据验证器
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/9/13 16:09
  */

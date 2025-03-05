@@ -31,7 +31,7 @@ import java.util.List;
  * 应用表 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-07-02
  */
 public interface ApplicationInfoDAO extends BaseMapper<ApplicationInfoDO> {

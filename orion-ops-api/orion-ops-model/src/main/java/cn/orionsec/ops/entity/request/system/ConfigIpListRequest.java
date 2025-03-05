@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 配置ip过滤器请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/2/15 22:13
  */

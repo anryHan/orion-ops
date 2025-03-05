@@ -26,7 +26,7 @@ import lombok.Getter;
 /**
  * 定时类型
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/12/20 9:09
  */

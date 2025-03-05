@@ -29,7 +29,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 历史值快照请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/9 19:03
  */

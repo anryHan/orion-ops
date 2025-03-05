@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * 文件 tail service
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/8/1 23:33
  */

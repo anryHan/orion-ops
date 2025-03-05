@@ -50,7 +50,7 @@ import java.util.stream.Collectors;
 /**
  * 机器报警配置服务
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/26 17:52
  */

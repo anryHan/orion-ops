@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 站内信请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/3/25 16:19
  */

@@ -34,7 +34,7 @@ import java.util.Date;
  * 报警组通知方式
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-08-25
  */
 @Data

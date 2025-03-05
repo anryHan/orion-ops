@@ -28,7 +28,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 发布任务实现
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/2/14 10:25
  */

@@ -30,7 +30,7 @@ import java.io.Serializable;
 /**
  * 用户信息
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/2 16:40
  */

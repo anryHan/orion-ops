@@ -29,7 +29,7 @@ import java.util.List;
  * 发布任务机器表 服务类
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-12-20
  */
 public interface ApplicationReleaseMachineService {

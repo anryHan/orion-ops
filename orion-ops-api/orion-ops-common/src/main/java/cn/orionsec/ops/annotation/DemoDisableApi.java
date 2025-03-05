@@ -25,7 +25,7 @@ import java.lang.annotation.*;
 /**
  * 演示模式禁用 api
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2024/5/21 16:44
  */

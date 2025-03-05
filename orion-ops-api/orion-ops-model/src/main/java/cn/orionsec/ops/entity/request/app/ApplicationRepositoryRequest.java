@@ -29,7 +29,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 应用版本仓库请求
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/12 18:36
  */

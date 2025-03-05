@@ -31,7 +31,7 @@ import java.util.List;
  * 应用版本仓库 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-11-26
  */
 public interface ApplicationRepositoryDAO extends BaseMapper<ApplicationRepositoryDO> {

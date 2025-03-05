@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 应用配置环境响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/12/21 11:19
  */

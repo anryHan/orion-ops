@@ -28,7 +28,7 @@ import lombok.Data;
 /**
  * 文件传输进度
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/2 11:32
  */

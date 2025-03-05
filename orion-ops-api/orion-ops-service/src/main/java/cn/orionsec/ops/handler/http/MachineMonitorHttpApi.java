@@ -27,7 +27,7 @@ import lombok.Getter;
 /**
  * 机器监控插件 http api
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/1 10:55
  */

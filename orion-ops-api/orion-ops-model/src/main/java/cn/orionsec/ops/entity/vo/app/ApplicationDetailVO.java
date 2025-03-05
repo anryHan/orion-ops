@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * 应用详情响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/7/5 18:52
  */

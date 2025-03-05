@@ -31,7 +31,7 @@ import java.io.IOException;
 /**
  * ws服务端响应常量
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/16 21:48
  */

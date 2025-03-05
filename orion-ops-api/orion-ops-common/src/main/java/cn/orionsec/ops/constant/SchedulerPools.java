@@ -29,7 +29,7 @@ import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 
 /**
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/6/4 18:04
  */

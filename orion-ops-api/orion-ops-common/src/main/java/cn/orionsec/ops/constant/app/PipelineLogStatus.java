@@ -28,7 +28,7 @@ import lombok.Getter;
 /**
  * 流水线日志状态
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/4/14 15:57
  */

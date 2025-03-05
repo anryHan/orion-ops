@@ -25,7 +25,7 @@ import cn.orionsec.ops.entity.dto.user.UserDTO;
 /**
  * 用户信息
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/4/2 9:44
  */

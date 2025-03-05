@@ -32,7 +32,7 @@ import java.util.Date;
 /**
  * 用户事件日志
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-04-20
  */
 @Data

@@ -38,7 +38,7 @@ import javax.annotation.Resource;
 /**
  * 应用操作日志api
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/5/9 14:42
  */

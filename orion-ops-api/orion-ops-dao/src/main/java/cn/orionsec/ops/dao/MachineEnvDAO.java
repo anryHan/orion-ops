@@ -29,7 +29,7 @@ import org.apache.ibatis.annotations.Param;
  * 机器环境变量 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2021-03-29
  */
 public interface MachineEnvDAO extends BaseMapper<MachineEnvDO> {

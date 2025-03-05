@@ -31,7 +31,7 @@ import java.util.List;
  * 应用操作日志 Mapper 接口
  * </p>
  *
- * @author Jiahang Li
+ * @author 
  * @since 2022-02-11
  */
 public interface ApplicationActionLogDAO extends BaseMapper<ApplicationActionLogDO> {

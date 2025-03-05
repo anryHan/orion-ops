@@ -64,7 +64,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 文件 tail 实现
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2021/8/1 23:33
  */

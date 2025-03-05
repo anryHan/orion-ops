@@ -27,7 +27,7 @@ import lombok.Data;
 /**
  * 报警组员响应
  *
- * @author Jiahang Li
+ * @author 
  * @version 1.0.0
  * @since 2022/8/26 16:29
  */
