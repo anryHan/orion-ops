@@ -130,7 +130,8 @@ public class BuildMachineProcessor extends AbstractMachineProcessor implements E
         store.setBranchName(record.getBranchName());
         store.setCommitId(record.getCommitId());
         if (repoId != null) {
-            String repoClonePath = Files1.getPath(SystemEnvAttr.REPO_PATH.getValue(), repoId + "/" + record.getId());
+         //   String repoClonePath = Files1.getPath(SystemEnvAttr.REPO_PATH.getValue(), repoId + "/" + record.getId());
+            String repoClonePath = Files1.getPath(SystemEnvAttr.REPO_PATH.getValue(), repoId + "/");
             store.setRepoClonePath(repoClonePath);
         }
         // 创建handler
