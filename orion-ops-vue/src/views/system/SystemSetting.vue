@@ -22,9 +22,11 @@
         <ThreadMetrics/>
       </a-tab-pane>
       <!-- 关于 -->
+      <!-- 
       <a-tab-pane key="6" tab="关于">
         <SystemAbout/>
       </a-tab-pane>
+      -->
     </a-tabs>
   </div>
 </template>
